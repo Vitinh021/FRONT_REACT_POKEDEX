@@ -9,7 +9,7 @@
 4. Após baixado, abra o projeto em sua IDE favorita e execute o seguinte comando no terminal para baixar as dependências -> `npm install`
 5. Por fim, basta rodar o projeto usando o comando -> `npm run dev`
  
-### Passo a passo para baixar e rodar o projeto caso baixa em formato zip
+### Passo a passo para baixar e rodar o projeto caso baixe em formato zip
 1. Após baixado, descompacte o arquivo
 2. Em seguida abra o projeto em sua IDE favorita e execute o seguinte comando no terminal para baixar as dependências -> `npm install`
 3. Por fim, basta rodar o projeto usando o comando -> `npm run dev`
